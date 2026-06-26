@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0951-flip-equivalent-binary-trees](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0951-flip-equivalent-binary-trees) |
 ## Design
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0951-flip-equivalent-binary-trees](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0951-flip-equivalent-binary-trees) |
 ## Data Stream
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0572-subtree-of-another-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0951-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |

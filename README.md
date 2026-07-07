@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0451-sort-characters-by-frequency](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0051-n-queens) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->

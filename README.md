@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->

@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0131-palindrome-partitioning) |
 | [0451-sort-characters-by-frequency](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0131-palindrome-partitioning) |
 ## Math
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0131-palindrome-partitioning) |
 ## Memoization
 |  |
 | ------- |

@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0070-climbing-stairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -279,4 +283,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->

@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0200-number-of-islands) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1584-min-cost-to-connect-all-points](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1584-min-cost-to-connect-all-points) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0200-number-of-islands) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0200-number-of-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory

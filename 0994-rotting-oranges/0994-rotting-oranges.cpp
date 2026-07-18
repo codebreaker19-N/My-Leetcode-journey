@@ -4,7 +4,7 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        int dr[4] = {1,-1,0,0};
+        int dr[4] = {-1,1,0,0};
         int dc[4] = {0,0,-1,1};
 
         queue<pair<int,int>> q;

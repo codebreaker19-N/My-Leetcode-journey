@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0695-max-area-of-island](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0695-max-area-of-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1584-min-cost-to-connect-all-points) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0070-climbing-stairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation

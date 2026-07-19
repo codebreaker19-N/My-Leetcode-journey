@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0886-possible-bipartition) |
 | [0951-flip-equivalent-binary-trees](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0886-possible-bipartition) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0886-possible-bipartition) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |

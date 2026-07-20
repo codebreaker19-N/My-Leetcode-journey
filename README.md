@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0886-possible-bipartition) |
 | [0951-flip-equivalent-binary-trees](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0951-flip-equivalent-binary-trees) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0994-rotting-oranges) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0886-possible-bipartition) |
 | [1192-critical-connections-in-a-network](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1192-critical-connections-in-a-network) |
@@ -337,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1192-critical-connections-in-a-network) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->

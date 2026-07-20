@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0802-find-eventual-safe-states) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0802-find-eventual-safe-states) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0886-possible-bipartition) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0841-keys-and-rooms) |

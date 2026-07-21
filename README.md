@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0417-pacific-atlantic-water-flow](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0695-max-area-of-island) |
+| [0746-min-cost-climbing-stairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1584-min-cost-to-connect-all-points](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1584-min-cost-to-connect-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0131-palindrome-partitioning) |
+| [0746-min-cost-climbing-stairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |

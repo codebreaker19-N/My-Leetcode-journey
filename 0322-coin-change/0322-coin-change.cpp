@@ -30,7 +30,7 @@ public:
 
         int ans = solve(n - 1, amount, coins, dp);
 
-        if(ans >= 1e5)
+        if(ans >= 1e9)
             return -1;
 
         return ans;

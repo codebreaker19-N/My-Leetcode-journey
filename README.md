@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0474-ones-and-zeroes) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0695-max-area-of-island) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0746-min-cost-climbing-stairs) |

@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0070-climbing-stairs) |
+| [0343-integer-break](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0343-integer-break) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0494-target-sum) |

@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1584-min-cost-to-connect-all-points) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
@@ -418,4 +421,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

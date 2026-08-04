@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0474-ones-and-zeroes) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Counting Sort
 |  |
 | ------- |

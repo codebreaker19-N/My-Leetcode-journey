@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bucket Sort
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3731-find-missing-elements](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |

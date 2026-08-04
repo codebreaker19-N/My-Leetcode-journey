@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0417-pacific-atlantic-water-flow) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0494-target-sum) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0222-count-complete-tree-nodes) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Number Theory
 |  |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0648-replace-words) |
 ## Counting Sort
 |  |

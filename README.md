@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
 | ------- |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |

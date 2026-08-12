@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3731-find-missing-elements) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1584-min-cost-to-connect-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -492,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->

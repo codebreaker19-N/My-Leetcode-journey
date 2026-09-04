@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0417-pacific-atlantic-water-flow) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0115-distinct-subsequences) |

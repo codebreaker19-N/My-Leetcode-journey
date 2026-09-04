@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0213-house-robber-ii) |

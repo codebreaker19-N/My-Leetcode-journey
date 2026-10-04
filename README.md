@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0474-ones-and-zeroes) |
+| [0539-minimum-time-difference](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0539-minimum-time-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0678-valid-parenthesis-string) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0354-russian-doll-envelopes) |
 | [0451-sort-characters-by-frequency](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0539-minimum-time-difference) |
 | [0646-maximum-length-of-pair-chain](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0646-maximum-length-of-pair-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0518-coin-change-ii) |
+| [0539-minimum-time-difference](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0539-minimum-time-difference) |
 | [0646-maximum-length-of-pair-chain](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0648-replace-words) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0486-predict-the-winner) |
+| [0539-minimum-time-difference](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0539-minimum-time-difference) |
 | [0877-stone-game](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1406-stone-game-iii) |

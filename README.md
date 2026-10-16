@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0539-minimum-time-difference) |
 | [0646-maximum-length-of-pair-chain](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0648-replace-words) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0539-minimum-time-difference) |
 | [0877-stone-game](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1140-stone-game-ii) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1140-stone-game-ii) |
 ## Nim Game
 |  |
@@ -574,4 +578,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->

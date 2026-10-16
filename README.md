@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0518-coin-change-ii) |

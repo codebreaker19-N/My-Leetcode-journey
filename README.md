@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0416-partition-equal-subset-sum) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0334-increasing-triplet-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0673-number-of-longest-increasing-subsequence) |

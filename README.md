@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1406-stone-game-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1584-min-cost-to-connect-all-points) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1140-stone-game-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Nim Game
 |  |
 | ------- |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3206-alternating-groups-i) |

@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0213-house-robber-ii) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0695-max-area-of-island) |

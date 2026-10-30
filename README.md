@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0257-binary-tree-paths) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0451-sort-characters-by-frequency](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0539-minimum-time-difference) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0343-integer-break](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0343-integer-break) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0222-count-complete-tree-nodes) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3513-number-of-unique-xor-triplets-i) |

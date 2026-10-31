@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0451-sort-characters-by-frequency](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0474-ones-and-zeroes) |
+| [0504-base-7](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0504-base-7) |
 | [0539-minimum-time-difference](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0539-minimum-time-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0648-replace-words) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0486-predict-the-winner) |
+| [0504-base-7](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0539-minimum-time-difference) |
 | [0877-stone-game](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0877-stone-game) |

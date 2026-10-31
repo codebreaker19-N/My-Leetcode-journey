@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1254-number-of-closed-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
 |  |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3665-twisted-mirror-path-count](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |

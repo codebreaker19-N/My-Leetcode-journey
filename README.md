@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0485-max-consecutive-ones) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0343-integer-break](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0343-integer-break) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0504-base-7) |

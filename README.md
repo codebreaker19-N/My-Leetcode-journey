@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0539-minimum-time-difference) |
+| [0728-self-dividing-numbers](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1344-angle-between-hands-of-a-clock) |

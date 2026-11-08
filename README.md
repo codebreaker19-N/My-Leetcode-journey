@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1882-process-tasks-using-servers](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1882-process-tasks-using-servers) |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-finding-3-digit-even-numbers](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2747-count-zero-request-servers](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1584-min-cost-to-connect-all-points) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1882-process-tasks-using-servers](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1882-process-tasks-using-servers) |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2213-longest-substring-of-one-repeating-character) |

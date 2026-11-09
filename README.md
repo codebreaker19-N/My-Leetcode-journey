@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1584-min-cost-to-connect-all-points) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1732-find-the-highest-altitude](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1732-find-the-highest-altitude) |
 | [1882-process-tasks-using-servers](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1882-process-tasks-using-servers) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1732-find-the-highest-altitude) |
 ## Nim Game
 |  |
 | ------- |

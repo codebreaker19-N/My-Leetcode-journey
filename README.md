@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |

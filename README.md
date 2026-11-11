@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0115-distinct-subsequences) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0063-unique-paths-ii](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0072-edit-distance) |
@@ -685,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0164-maximum-gap) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

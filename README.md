@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0006-zigzag-conversion) |
 | [0072-edit-distance](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0115-distinct-subsequences) |

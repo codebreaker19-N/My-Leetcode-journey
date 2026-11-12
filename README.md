@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0231-power-of-two) |
 | [0343-integer-break](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0343-integer-break) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0486-predict-the-winner) |
 | [2094-finding-3-digit-even-numbers](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2094-finding-3-digit-even-numbers) |
 ## Game Theory

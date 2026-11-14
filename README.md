@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0771-jewels-and-stones](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0771-jewels-and-stones) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-finding-3-digit-even-numbers](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/2094-finding-3-digit-even-numbers) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0678-valid-parenthesis-string) |
+| [0771-jewels-and-stones](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/codebreaker19-N/My-Leetcode-journey/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
